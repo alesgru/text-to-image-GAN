@@ -1,4 +1,4 @@
-# text-to-image_GAN
+# text-to-image-GAN
 Generative Adversarial Network (GAN) that learns to generate images given the text embeddings
 ## Results
 ### Training process
@@ -11,5 +11,5 @@ This figure shows good results on the test set:
 
 
 This figure shows bad results on the test set:
-![img](img/fail.png)
+![img](img/fails.png)
 
